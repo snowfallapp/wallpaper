@@ -1390,8 +1390,8 @@
     "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
     "UpdatePackage": "com.ukturksapp.fixturestandingni",
     "UpdateVersion": 1,
-    "ShowTvChannels": true,
-    "ShowLiveMatches": true,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
     "ShowCustomInterAds": false,
     "PlayInExternalPlayer": true
   },
